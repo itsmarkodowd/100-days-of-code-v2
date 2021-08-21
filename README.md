@@ -51,3 +51,21 @@
 - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
 
 ---
+
+### Day 4: August 21, 2021
+
+**Today's Progress**:
+
+- Watched more of Data Visualization with D3, JavaScript, React
+- Another small project using pie and csv from D3 library
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
+- [My D3-React Repo](https://github.com/itsmarkodowd/D3-React)
+
+---
