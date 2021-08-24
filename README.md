@@ -87,3 +87,20 @@
 - [My D3-React Repo](https://github.com/itsmarkodowd/D3-React)
 
 ---
+
+### Day 6: August 24, 2021
+
+**Today's Progress**:
+
+- Watched more of Data Visualization with D3, JavaScript, React
+- Covered scatter and line charts but not built anything with yet
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
+
+---
