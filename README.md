@@ -104,3 +104,19 @@
 - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
 
 ---
+
+### Day 7: August 25, 2021
+
+**Today's Progress**:
+
+- Watched more of Data Visualization with D3, JavaScript, React
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
+
+---
