@@ -168,3 +168,19 @@
 - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
 
 ---
+
+### Day 11: September 06, 2021
+
+**Today's Progress**:
+
+- Covered having multiple views, brushing and optimisations in D3 with React
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
+
+---
