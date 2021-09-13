@@ -61,7 +61,7 @@
 
 **Work 9-5**:
 
-- true
+- false
 
 **Links**:
 
@@ -214,5 +214,21 @@
 **Links**:
 
 - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/2LhoCfjm8R4)
+
+---
+
+### Day 14: September 13, 2021
+
+**Today's Progress**:
+
+- Covering line chart with corona data
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/H2qPeJx1RDI)
 
 ---
