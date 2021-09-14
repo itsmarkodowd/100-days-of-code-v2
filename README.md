@@ -232,3 +232,19 @@
 - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/H2qPeJx1RDI)
 
 ---
+
+### Day 15: September 14, 2021
+
+**Today's Progress**:
+
+- Final video section on line chart with voronai hovering
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/H2qPeJx1RDI)
+
+---
