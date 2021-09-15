@@ -248,3 +248,21 @@
 - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://youtu.be/H2qPeJx1RDI)
 
 ---
+
+### Day 16: September 15, 2021
+
+**Today's Progress**:
+
+- Made corona line chart with voronoi hover
+- Started watching videos on user authentication with Passport.JS
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [My D3-React Repo](https://github.com/itsmarkodowd/D3-React)
+- [User Authentication in Web Apps (Passport.js, Node, Express)](https://youtu.be/F-sFp_AvHc8)
+
+---
