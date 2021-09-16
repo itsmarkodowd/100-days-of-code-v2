@@ -266,3 +266,19 @@
 - [User Authentication in Web Apps (Passport.js, Node, Express)](https://youtu.be/F-sFp_AvHc8)
 
 ---
+
+### Day 17: September 16, 2021
+
+**Today's Progress**:
+
+- Covered session storage with PassportJS and start of public key cryptography
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [User Authentication in Web Apps (Passport.js, Node, Express)](https://youtu.be/F-sFp_AvHc8)
+
+---
