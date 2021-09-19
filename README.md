@@ -282,3 +282,20 @@
 - [User Authentication in Web Apps (Passport.js, Node, Express)](https://youtu.be/F-sFp_AvHc8)
 
 ---
+
+### Day 18: September 19, 2021
+
+**Today's Progress**:
+
+- Finished the series on user authentication with JWT
+- Started setting up a MERN project using JWT Auth
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [User Authentication in Web Apps (Passport.js, Node, Express)](https://youtu.be/F-sFp_AvHc8)
+
+---
