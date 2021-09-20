@@ -299,3 +299,19 @@
 - [User Authentication in Web Apps (Passport.js, Node, Express)](https://youtu.be/F-sFp_AvHc8)
 
 ---
+
+### Day 19: September 20, 2021
+
+**Today's Progress**:
+
+- Brushed up on TypeScript with crash course
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Learn TypeScript - Full Course](https://youtu.be/gp5H0Vw39yw)
+
+---
