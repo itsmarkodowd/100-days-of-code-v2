@@ -308,10 +308,26 @@
 
 **Work 9-5**:
 
-- false
+- true
 
 **Links**:
 
 - [Learn TypeScript - Full Course](https://youtu.be/gp5H0Vw39yw)
+
+---
+
+### Day 20: September 22, 2021
+
+**Today's Progress**:
+
+- Learn JavaScript by Building 7 Games - Full Course
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Learn JavaScript by Building 7 Games - Full Course](https://youtu.be/lhNdUVh3qCc)
 
 ---
