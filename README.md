@@ -331,3 +331,19 @@
 - [Learn JavaScript by Building 7 Games - Full Course](https://youtu.be/lhNdUVh3qCc)
 
 ---
+
+### Day 21: September 26, 2021
+
+**Today's Progress**:
+
+- Watching a crash course on C
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
+
+---
