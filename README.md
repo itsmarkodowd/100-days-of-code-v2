@@ -347,3 +347,19 @@
 - [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
 
 ---
+
+### Day 22: September 27, 2021
+
+**Today's Progress**:
+
+- Watching a crash course on C++
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
+
+---
