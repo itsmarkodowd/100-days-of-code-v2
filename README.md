@@ -363,3 +363,19 @@
 - [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
 
 ---
+
+### Day 23: September 28, 2021
+
+**Today's Progress**:
+
+- Getting windows setup to follow C++ on making audio plugin
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [PFM Starting From Scratch Windows 2021](https://youtu.be/JHTcLVOcnQ4)
+
+---
