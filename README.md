@@ -379,3 +379,19 @@
 - [PFM Starting From Scratch Windows 2021](https://youtu.be/JHTcLVOcnQ4)
 
 ---
+
+### Day 24: October 04 , 2021
+
+**Today's Progress**:
+
+- Watched video covering git concepts I rarely use/hadn't been exposed to
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
+
+---
