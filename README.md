@@ -395,3 +395,19 @@
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 ---
+
+### Day 25: October 05 , 2021
+
+**Today's Progress**:
+
+- Starting a long series on AWS
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng&t=2478s)
+
+---
