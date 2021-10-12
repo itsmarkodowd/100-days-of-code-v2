@@ -411,3 +411,19 @@
 - [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng&t=2478s)
 
 ---
+
+### Day 26: October 12 , 2021
+
+**Today's Progress**:
+
+- Fixing an old project for Hacktoberfest
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Irish-Trad.net](https://github.com/Irish-Trad/Irish-Trad-Client/pull/1)
+
+---
