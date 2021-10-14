@@ -427,3 +427,19 @@
 - [Irish-Trad.net](https://github.com/Irish-Trad/Irish-Trad-Client/pull/1)
 
 ---
+
+### Day 27: October 14 , 2021
+
+**Today's Progress**:
+
+- Starting new FreeCodeCamp Node video
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Node.js / Express Course - Build 4 Projects](https://youtu.be/qwfE7fSVaZM)
+
+---
